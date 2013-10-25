@@ -44,7 +44,7 @@
             <li><a href="https://github.com/rajat26/Data-Warehousing" target="_blank">Data-Warehousing</a></li>
             <li><a href="https://github.com/rajat26/Password-Cracker--PHP" target="_blank">Password-Cracker-PHP</a></li>
             <li><a href="https://github.com/rajat26/Patch-for-PHP-random-number-Generator" target="_blank">Patch-for-PHP-random-number-Generator</a></li>
-            <li><a href="#">Last One</a></li>
+             <li><a href="https://github.com/rajat26/My-Website" target="_blank">This Website</a></li>
           </ul>
         </div>
         
@@ -56,7 +56,7 @@
           // 1. Enter the email address you would like the enquiry sent to
           // 2. Enter the subject of the email you will receive, when someone contacts you
           // 3. Enter the text that you would like the user to see once they submit the contact form
-          $to = 'rajat26.gupta@gmail.com';
+          $to = 'info@rajat26.com';
           $subject = 'Enquiry from the website';
           $contact_submitted = 'Your message has been sent.';
 
@@ -99,6 +99,7 @@
           </div>
         </form>
       </div>
+	  
     </div>
    <footer>
       
@@ -110,12 +111,12 @@
 </a><span id="contactmail">Contact &nbsp:&nbsp&nbsp rajat26.gupta@gmail.com</span>
 <a href="contact.html">
 <img border="0" src="images/follow.jpg" alt="follow" width="40" height="32" id="follow">
-</a><span id="follow">Follow Me &nbsp <a href="http://www.linkedin.com/pub/rajat-gupta/2a/76b/1b6">
+</a><span id="follow">Follow Me &nbsp <a href="http://www.linkedin.com/pub/rajat-gupta/2a/76b/1b6" target="_blank">
 <img border="0" src="images/linkedin.jpg" alt="linkedin" width="20" height="16" >
-</a>&nbsp <a href="https://www.facebook.com/rajat.gupta.568">
+</a>&nbsp <a href="https://www.facebook.com/rajat.gupta.568" target="_blank">
 <img border="0" src="images/facebook.jpg" alt="facebook" width="20" height="16" >
-</a>&nbsp <a href="https://plus.google.com/u/0/112632221916308395879/posts">
-<img border="0" src="images/g+.jpg" alt="call" width="20" height="16" >
+</a>&nbsp <a href="https://plus.google.com/u/0/112632221916308395879/posts" target="_blank">
+<img border="0" src="images/g.jpg" alt="call" width="20" height="16" >
 </a> </span>
     </footer>
   </div>
